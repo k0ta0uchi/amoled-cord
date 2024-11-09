@@ -497,6 +497,7 @@
 
 :is(.theme-dark, .theme-midnight) #app-mount .chat_a7d72e .wrapper_f7e168, .container_d1c246 .wrapper_f7e168 {
   background-color: var(--background-tertiary);
+  font-family: "PlemolJP35 Console NF";
 }
 
 :is(.theme-dark, .theme-midnight) #app-mount .container_a6d69a .mainCard_a6d69a:not(.container_a57509:is(.isOpen_a57509, :hover, :active),
